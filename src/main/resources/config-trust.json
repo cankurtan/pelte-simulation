@@ -1,0 +1,15 @@
+{
+"expType":"TRUST",
+"features":"src\\main\\resources\\3980.feat",
+"edges":"src\\main\\resources\\3980.edges",
+"trainingFile":"src\\main\\resources\\ps.csv",
+"testFile":"",
+"tagFile":"src\\main\\resources\\clarifai.csv",
+"numOfSims":100,
+"trainingSizes":[1180],
+"testSizes":[1180],
+"threshold":[0.1],
+"newcomer":4028,
+"newcomerTurn":1000,
+"tagNumbers":[0]
+}
